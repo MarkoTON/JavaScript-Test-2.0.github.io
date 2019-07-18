@@ -1,0 +1,62 @@
+[
+  {
+    "testQuestions": [
+      {
+        "id":"q1",
+        "question":"In witch HTML element do we put in JavaScript code?",
+        "rightAnswer": "script"
+      },
+      {
+        "id":"q2",
+        "question":"Witch HTML attribute is used to reference an external JavaScript file?",
+        "rightAnswer": "src"
+      },
+      {
+        "id":"q3",
+        "question":"How wold you write \"Hello\" in alert box?",
+        "rightAnswer": "alert('Hello')"
+      },
+      {
+        "id":"q4",
+        "question":"JavaScript is directly related to the \"Java\" programing language?",
+        "rightAnswer": "False"
+      },
+      {
+        "id":"q5",
+        "question":"A variable in JavaScript must start with which special character?",
+        "rightAnswer": "No special Character"
+      }
+    ],
+    "offeredAnswers": [
+      [
+        "script",
+        "js",
+        "body",
+        "link"
+      ]
+      ,
+      [
+        "src",
+        "rel",
+        "type",
+        "href"
+      ],
+      [
+        "msg(\"Hello\")",
+        "alertBox(\"Hello\")",
+        "document.write(\"Hello\")",
+        "alert('Hello')"
+      ],
+      [
+        "True",
+        "False"
+      ],
+      [
+        "@",
+        "$",
+        "#",
+        "No special Character"
+      ]
+    ]
+  }
+]

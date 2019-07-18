@@ -1,0 +1,38 @@
+
+.qa-card {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+header {
+  border-bottom: 2px solid rgba($color-primary-light, 0.5);
+  
+  h1 {
+    font-weight: 900;
+  }
+  
+  
+  .header-text {
+    font-size: 2.5rem;
+    font-weight: 900;
+    letter-spacing: .4rem;
+    
+    p {
+      font-weight: 500;
+      font-size: 1.5rem;
+    }
+  }
+}
+
+.section-QA {
+  
+  p {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    font-weight: 500;
+    letter-spacing: 1.2px;
+  }
+}
+
+footer {
+  border-top: 2px solid rgba($color-primary-light, 0.5);  
+}

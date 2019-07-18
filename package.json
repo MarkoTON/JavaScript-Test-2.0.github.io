@@ -1,0 +1,14 @@
+{
+  "name": "test_javascript",
+  "version": "1.0.0",
+  "description": "Test za JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "comp:scss": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Marko Canovic",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
